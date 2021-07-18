@@ -1,0 +1,7 @@
+include ':modulebase:librouter'
+include ':modulecore:login'
+include ':modulePublic:common'
+include ':modulecore:mian'
+include ':modulebase:mylib'
+include ':app'
+rootProject.name = "MusicPlayer"
